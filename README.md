@@ -16,7 +16,7 @@ Ask questions on the midterm slack channel  or by unmuting on zoom
 
 # DELIVERY: **AT THE START OF CLASS** OPEN A NOTEBOOK CHANGE THE TITLE TO \<YOURNAME FDSFE MIDTERM\> AND SHARE IT WITH THE INSTRUCTORS. This is the notebook you will work in, do not change it during the exam.
 
-sharing it with fbianco@udel.edu and fortino@udel.edu!, see images that follow
+Share it with fbianco@udel.edu and fortino@udel.edu, see the following images for help.
 
 At the end of the allotted time your notebook will already be available to us and this will be the mode of delivery - no github uploads no canvas. 
 
