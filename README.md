@@ -1,4 +1,4 @@
-# FDEFE_midterm2024
+# FDSFE_midterm2024
 
 # Cameras must be on. 
 If your computer camera does not work connect with your phone and have that camera on. No exceptions. 
